@@ -1,1 +1,1 @@
-goolashe/automatic1111-sd-webui:20240607
+pytorch/pytorch:2.3.1-cuda11.8-cudnn8-devel
