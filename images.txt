@@ -1,1 +1,1 @@
-ollama/ollama:0.1.43
+obeliks/comfyui:latest-cu121
