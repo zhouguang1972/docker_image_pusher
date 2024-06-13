@@ -1,1 +1,1 @@
-obeliks/comfyui:latest-cu121
+obeliks/comfyui:latest-cu118
