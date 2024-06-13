@@ -1,1 +1,1 @@
-obeliks/comfyui:latest-cu118
+goolashe/automatic1111-sd-webui:20240607
