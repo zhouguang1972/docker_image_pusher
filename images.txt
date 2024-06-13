@@ -1,4 +1,8 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
-ollama/ollama
+pytorch/pytorch:2.3.1-cuda11.8-cudnn8-devel
+pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
+langchain/langchain:0.1.0
+ollama/ollama:0.1.43
+mathematica12/mathematica12:latest
+obeliks/comfyui:latest-cu121
+obeliks/comfyui:latest-cu118
+goolashe/automatic1111-sd-webui:20240607
