@@ -1,1 +1,1 @@
-nvidia/cuda:12.3.1-runtime-ubuntu20.04
+node:20
