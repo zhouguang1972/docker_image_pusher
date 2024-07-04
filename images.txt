@@ -1,1 +1,1 @@
-node:20
+breakstring/gpt-sovits:dev-20240509
