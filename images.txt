@@ -1,1 +1,1 @@
-obeliks/comfyui:sha-ebf5c41-cu121
+pytorch/pytorch:2.4.0-cuda12.1-cudnn9-devel
