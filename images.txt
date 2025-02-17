@@ -1,1 +1,1 @@
-nvidia/cuda:12.2.0-runtime-ubuntu22.04
+ascendai/cann:ubuntu-python3.10-cann8.0.0.beta1
