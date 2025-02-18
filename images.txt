@@ -1,1 +1,1 @@
-ascendai/cann:ubuntu-python3.10-cann8.0.0.beta1
+ollama/ollama:0.5.11
