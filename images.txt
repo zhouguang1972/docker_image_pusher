@@ -1,1 +1,1 @@
-obeliks/comfyui:sha-243e9cc-cu124
+ollama/ollama:0.6.2
