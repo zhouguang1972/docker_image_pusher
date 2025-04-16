@@ -1,2 +1,2 @@
-ollama/ollama:0.6.4
+intelanalytics/ipex-llm-serving-cpu:2.3.0-SNAPSHOT
 
