@@ -1,1 +1,1 @@
-intelanalytics/ipex-llm-finetune-xpu:2.3.0-SNAPSHOT
+intelanalytics/multi-arc-serving:0.1.0-rc2
