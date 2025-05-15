@@ -1,1 +1,1 @@
-intelanalytics/multi-arc-serving:0.1.0-rc2
+thelocallab/ace-step:latest
