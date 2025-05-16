@@ -1,2 +1,2 @@
-thelocallab/ace-step:latest
+nvidia/cuda:12.6.0-runtime-ubuntu22.04
 
