@@ -1,2 +1,2 @@
-nvidia/cuda:12.6.0-runtime-ubuntu22.04
+zhangp365/comfyui:20250615
 
