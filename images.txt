@@ -1,2 +1,2 @@
-zhangp365/comfyui:20250615
+ollama/ollama:0.9.6
 
