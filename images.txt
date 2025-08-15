@@ -1,2 +1,2 @@
-ollama/ollama:0.9.6
+pytorch/pytorch:2.8.0-cuda12.6-cudnn9-devel
 
