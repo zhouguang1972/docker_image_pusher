@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.5.11
+quay.io/coreos/etcd:v3.5.18
