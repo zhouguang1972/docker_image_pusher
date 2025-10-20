@@ -1,1 +1,1 @@
-pytorch/pytorch:2.6.0-cuda11.8-cudnn9-devel
+milvusdb/milvus:v2.5.11
